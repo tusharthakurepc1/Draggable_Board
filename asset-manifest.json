@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/draggable-board/static/css/main.073ed1ca.css",
+    "main.js": "/draggable-board/static/js/main.59ed9836.js",
+    "static/js/453.11a3b8de.chunk.js": "/draggable-board/static/js/453.11a3b8de.chunk.js",
+    "index.html": "/draggable-board/index.html",
+    "main.073ed1ca.css.map": "/draggable-board/static/css/main.073ed1ca.css.map",
+    "main.59ed9836.js.map": "/draggable-board/static/js/main.59ed9836.js.map",
+    "453.11a3b8de.chunk.js.map": "/draggable-board/static/js/453.11a3b8de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073ed1ca.css",
+    "static/js/main.59ed9836.js"
+  ]
+}
