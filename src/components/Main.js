@@ -5,6 +5,7 @@ import threedot from './3dot.png';
 
 
 const TaskTile = (props)=>{
+
     return(
         <div className='task-tile' 
             draggable='true'     
@@ -17,6 +18,7 @@ const TaskTile = (props)=>{
 
 
 
+
 const Main = ()=>{
     const [notStartedList, setNotStartedList] = useState(['Wakeup', 'TaskB'])
     const [progressList, setProgressList] = useState(['DoingProject'])
@@ -25,6 +27,8 @@ const Main = ()=>{
     const box1 = useRef()
     const box2 = useRef()
     const box3 = useRef()
+
+    
     
     const startedDraggable = (e)=>{
         var curr = e.target;
@@ -220,6 +224,9 @@ const Main = ()=>{
                     
                 </div>
             </div>
+
+
+            
             
         </div>
     )
